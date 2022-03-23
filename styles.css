@@ -10,7 +10,7 @@ body {
     align-items: center;
     justify-content: center;
     min-height: 100vh;
-    background: #43affc;
+    background: #111111;
 }
 ::selection {
     color: #fff;
@@ -26,7 +26,7 @@ body {
     display: flex;
     font-size: 21px;
     font-weight: 500;
-    color: #43affc;
+    color: #111111;
     padding: 16px 15px;
     align-items: center;
     border-bottom: 1px solid #ccc;
